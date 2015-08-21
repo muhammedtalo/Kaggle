@@ -1,0 +1,451 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+ <head profile="http://gmpg.org/xfn/11">
+  <title>
+   Roleplaying Tips for game masters for all role-playing systems
+  </title>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="FRmeVc1KnZPbNUX5WpKpFclkezdW+Qoo5HJQRhEFVyQ=" name="verify-v1"/>
+  <meta content="Johnn Four" name="author"/>
+  <meta content="game masters, roleplaying, rpg, roleplaying tips, game master, dungeon master, role-playing games, gamemastering" name="keywords"/>
+  <meta content="Game master RPG tips, tricks, and tools. Check out thousands of roleplaying tips and gamemaster articles." name="description"/>
+  <meta content="index, follow" name="ROBOTS"/>
+  <link href="/rptstyles.css" rel="stylesheet" type="text/css"/>
+ </head>
+ <body alink="RED" bgcolor="#ffffff" leftmargin="2" link="#0000FF" marginheight="0" marginwidth="0" text="#000080" topmargin="2" vlink="#800080">
+  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   _uacct = "UA-2027277-1";
+urchinTracker();
+  </script>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" width="800">
+   <tr align="center" valign="top">
+    <td align="center" valign="top">
+     <table bgcolor="#000080" border="0" cellpadding="0" cellspacing="0" style="margin-top: 30px;" width="100%">
+      <tr>
+       <td rowspan="2" valign="bottom" width="130">
+        <a href="/">
+         <img height="132" src="/images/rpt_logo_onblue_notxt_120x132.gif" style="border: none; position: absolute; top: 0px;" width="120"/>
+        </a>
+       </td>
+       <td id="header-logo" valign="middle">
+        <h1 style="float: left; font-size: 30px;">
+         <a href="/index.php" id="logo">
+          Roleplaying Tips
+         </a>
+        </h1>
+        <h2 style="float: left; margin: 16px 0 0 10px; padding: 0;">
+         <a href="/index.php" id="tagline">
+          Game Master Tips and Role-Playing Advice
+         </a>
+        </h2>
+       </td>
+       <td id="rss" rowspan="2" valign="middle">
+        <a href="/rss/roleplayingtips2.xml" title="Subscribe to the Roleplaying Tips feed">
+         <img height="65" src="/images/rss_65x65.gif" style="border:none; margin: 5px;" width="65"/>
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <td align="left" id="header-calltoaction" valign="middle">
+        Subscribe to the
+        <a href="/subscribe/">
+         Roleplaying Tips Weekly Newsletter
+        </a>
+        - game master tips
+       </td>
+      </tr>
+     </table>
+     <table bgcolor="#000080" border="0" cellpadding="7" cellspacing="2" valign="top" width="100%">
+      <tr valign="top">
+       <td id="menu">
+        <h4 id="welcome" style="margin-top:.5em;">
+         Welcome Game Masters...
+        </h4>
+        <div style="margin-top: 2em; font-size: 13px;">
+         <h4 style="margin:0 0 .25em 0;">
+          Check out my new ebook:
+         </h4>
+         <a href="http://www.roleplayingtips.com/url/chairrpts">
+          <img alt="how to find great gamers" height="77" src="/images/filling-the-empty-chair-cover-100x77.jpg" style="border: none;" width="100"/>
+         </a>
+         <br/>
+         <a href="http://www.roleplayingtips.com/url/chairrpts">
+          Filling the Empty Chair
+         </a>
+         <br/>
+         How to find
+         <br/>
+         great local gamers
+        </div>
+        <div class="menu-main">
+         <div class="sub-form-menu">
+          <p style="font-weight: bold; text-align: center;">
+           Subscribe free to Roleplaying Tips E-Zine
+          </p>
+          <form action="http://www.aweber.com/scripts/addlead.pl" method="post">
+           <input name="meta_web_form_id" type="hidden" value="722185642"/>
+           <input name="meta_split_id" type="hidden" value=""/>
+           <input name="unit" type="hidden" value="roleplayingtips"/>
+           <input id="redirect_d08e115541b18bc34aafda7544cad009" name="redirect" type="hidden" value="http://www.roleplayingtips.com/sub_thanks.php"/>
+           <input name="meta_redirect_onlist" type="hidden" value=""/>
+           <input name="meta_adtracking" type="hidden" value=""/>
+           <input name="meta_message" type="hidden" value="1"/>
+           <input name="meta_required" type="hidden" value="from"/>
+           <input name="meta_forward_vars" type="hidden" value="1"/>
+           Name:
+           <input class="fromname" name="name" type="text"/>
+           <br/>
+           E-mail:
+           <input class="fromemail" name="from" type="text"/>
+           <br/>
+           RPGs you GM:
+           <input class="subgame" name="custom Game System" type="text"/>
+           <br/>
+           <p style="text-align: center">
+            <input name="submit" type="submit" value="Subscribe"/>
+           </p>
+          </form>
+         </div>
+         <br/>
+         <a href="/city-encounter-generator/" id="home">
+          City EncounterGenerator
+         </a>
+         <br/>
+         <a href="/one-sentence-npc-generator/" id="home">
+          One SentenceNPC Generator
+         </a>
+         <a href="/archives/">
+          Roleplaying Tips
+          <br/>
+          Archives
+         </a>
+         <span class="tagline">
+          GM tips, tricks, secrets
+         </span>
+         <a href="/articles/">
+          Game Master Articles
+         </a>
+         <a href="/about/">
+          About
+          <br/>
+          Roleplaying Tips
+         </a>
+         <a href="/contact/">
+          Contact
+         </a>
+        </div>
+        <div href="/articles/npc-essentials.html" style="margin-top: 2em; font-size: 13px;">
+         <img height="123" src="/images/npc-essentials-small.jpg" style="border: none;" width="80"/>
+         <br/>
+         <a href="/articles/npc-essentials.html">
+          NPC Essentials
+         </a>
+         <br/>
+         How to build incredible NPCs
+        </div>
+        <div class="menu-main">
+         <div id="menu-secondary">
+          <a href="http://twitter.com/JohnnFour">
+           <img height="29" src="/banners/twitter_logo_125x29.png" style="border: none;" width="125"/>
+          </a>
+          <a href="http://www.campaignmastery.com/blog/ask-the-gms/">
+           Ask the GMs
+          </a>
+          <br/>
+          <a href="http://www.roleplayingtips.com/articles/online-bingo-as-dice.html">
+           Online Bingo as dice roller?
+          </a>
+         </div>
+         <div class="menu-main">
+          <div id="menu-secondary">
+           <a href="http://www.campaignmastery.com/">
+            Campaign Mastery
+           </a>
+           <a href="http://www.dungeonaday.com">
+            Monte Cook's Dungeonaday.com
+           </a>
+           <a href="http://www.nbos.com/">
+            NBOS GM Software
+           </a>
+           <a href="http://welshpiper.com/chimera/">
+            Chimera RPG
+           </a>
+           <a href="http://www.roleplayacademy.com/">
+            RolePlayAcademy
+           </a>
+           <a href="http://www.xrpshop.citymax.com">
+            Expeditious Retreat Press
+           </a>
+          </div>
+         </div>
+        </div>
+       </td>
+       <td align="center" bgcolor="#FFFFFF" id="content-wrapper" valign="top" width="600">
+        <table border="0" cellpadding="0" cellspacing="0" style="padding-left: 10px; padding-right: 10px;" width="100%">
+         <tr align="left" valign="top">
+          <td valign="top">
+           <div class="articles-wrapper">
+            <h2>
+             How To Maintain Game Consistency, While Winging-It, For Right-Brain Game Masters
+            </h2>
+            <p class="article-credits">
+             By Johnn Four
+            </p>
+            <h3>
+             Introduction
+            </h3>
+            <p>
+             A subject near and dear to my heart is roleplaying on-the-fly. This is also known as "winging it" or "making it up as you go". I call it stress!
+            </p>
+            <p>
+             One of the biggest problems with winging it is maintaining game consistency. Your players may notice your mistakes and oversights and they won't enjoy the game as much. You won't feel great about your performance either. Or, you will forget something important and your campaign will pay a big price now or in the future.
+            </p>
+            <p>
+             Even if you don't make a habit of GMing on-the-fly, at some point in your campaign, often during every game session, you will need to take an unknown path:
+            </p>
+            <ul>
+             <li>
+              your players made an unexpected choice
+             </li>
+             <li>
+              there wasn't enough time to prepare
+             </li>
+             <li>
+              you forgot to plan something and it's time to play that part
+             </li>
+             <li>
+              more details are needed than you prepared for
+             </li>
+             <li>
+              you have a great idea mid-game and want to use it right away
+             </li>
+            </ul>
+            <p>
+             If you learn how to make things up as you go and keep your campaign consistent you will notice a big improvement in the quality of your game sessions. You will be less stressed and more confident. You will be able to react better to your players and your players will enjoy greater freedom because you won't consciously or sub-consciously limit their choices from fear of the unknown. And you will have more time to focus on other things between sessions than extensive planning, such as creating player handouts or props, looking at the big picture of your game world, creating a campaign newsletter, etc.
+            </p>
+            <p>
+             The tips that follow are to help right-brained people keep consistency while making things up as they GM. By right-brained, I mean all you non-note taker, non-list maker, "don't weigh me down with tons of rules and paper" game masters out there.
+            </p>
+            <p>
+             Personally, I'm a left-brain GM. I need notes, lists, analysis, order and organization. In fact, I'm writing this week's issue of Roleplaying Tips Weekly about campaign consistency tips for left-brained people:
+             <a href="http://www.roleplayingtips.com/issue43.asp">
+              http://www.roleplayingtips.com/issue43.asp
+             </a>
+             .
+            </p>
+            <p>
+             However, I've played with right-brained GMs before and wouldn't dream of cramping their style by advising them on tips that would appeal to my left-brain gaming style. That would be criminal. So, if you're left-brained read the left-brained article at the RoleplayingTips.com site and if you're right-brained, read on.
+            </p>
+            <h3>
+             Tip #1: Create Vivid Mental Pictures During the Session
+            </h3>
+            <p>
+             As you play, picture what's happening in your mind with as much detail as you can. Give everything colour, motion and sound, if you can. Viewing scenes vividly and clearly in your imagination will help you remember them for a long time. And, you'll be able to summon past scenes very quickly into your mind to recall all those important details needed for game consistency.
+            </p>
+            <p>
+             Choose a point of reference for each scene as you picture it as well. The best reference is from the monster's or villain's point of view. If you look through his/its eyes in your imagination, not only will you have a unique point of view (easier to remember) but you'll also end up roleplaying the NPC/monster better.
+            </p>
+            <p>
+             Other potential points of view are:
+            </p>
+            <ul>
+             <li>
+              One of the character's perspectives
+             </li>
+             <li>
+              Many of the PCs' perspectives (switch around between them)
+             </li>
+             <li>
+              "God" view--from a high corner of the area looking down
+             </li>
+             <li>
+              Invisible person view: level height with the other participants but not part of the action
+             </li>
+            </ul>
+            <p>
+             Visualization is a tricky skill to learn but it's well worth the effort and practice. I find now that I don't need to write stuff down when planning a scene if I can visualize it well enough. The scene always magically pops into my head in great detail when needed during sessions.
+            </p>
+            <p>
+             If you're having a tough time with this technique, try black and white with no sound at first. Overhead viewpoints are also easier to imagine when beginning.
+            </p>
+            <h3>
+             Tip #2: Take Notes
+            </h3>
+            <p>
+             The absolutely best way to maintain campaign consistency unfortunately, is to document the important details as you make them up:
+            </p>
+            <ul>
+             <li>
+              Names
+             </li>
+             <li>
+              Dates
+             </li>
+             <li>
+              Passwords &amp; command words
+             </li>
+             <li>
+              Locations &amp; distances
+             </li>
+             <li>
+              NPC information (personality, appearance, last known location, etc.)
+             </li>
+             <li>
+              Place information
+             </li>
+            </ul>
+            <p>
+             However, if you loathe note-taking, there are more creative ways to record this kind of critical game information:
+            </p>
+            <ul>
+             <li>
+              Get a large pad of paper and put a dot with your pen somewhere on the page. Every time a fact or figure comes up, draw a short squiggly line with a dot at the end. Near the dot quickly jot down the bare facts. Create a new squiggle and end point each time you need to record something. Soon you'll have a long, snaking line of brief information that also serves as a chronological session sketch and memory jogger.
+             </li>
+             <li>
+              Try mind-mapping or spider style note taking. Start in the middle of a page and draw a circle. Put the name of an NPC, date, place, etc. in the circle. For each fact about that thing draw another circle nearby with the information inside and draw a line connecting both circles. Draw a new circle each time you have to record something and connect it to a related circle.
+More information about mind mapping can be found here:
+              <ul>
+               <li>
+                <a href="http://world.std.com/~emagic/mindmap.html">
+                 http://world.std.com/~emagic/mindmap.html
+                </a>
+               </li>
+               <li>
+                <a href="http://www.mindmapperUSA.com/whats-mindmapping.htm">
+                 http://www.mindmapperUSA.com/whats-mindmapping.htm
+                </a>
+               </li>
+               <li>
+                <a href="http://www.inkspot.com/feature/bartlett.html">
+                 http://www.inkspot.com/feature/bartlett.html
+                </a>
+               </li>
+              </ul>
+             </li>
+             <li>
+              Make copies of your campaign world &amp; local area maps. Write facts, figures and information on the copies in the margins, on the back and beside map labels.
+             </li>
+            </ul>
+            <h3>
+             Tip #3: Make Quick Sketches During Play
+            </h3>
+            <p>
+             If you can draw, make sketches of scenes, people, monsters and items during play. Quick outline sketches work best as they take little time and still give the players clear ideas of what you're drawing.
+            </p>
+            <p>
+             Keep the drawings after the session and make notes of important information in the margins, on the bottom or on the back.
+            </p>
+            <h3>
+             Tip #4: Create Maps
+            </h3>
+            <p>
+             If you like to create maps you're in luck because maps are an excellent way to keep the details straight in your game. Picture in your mind the places you are drawing and labelling on your map for better recall during sessions (and therefore, better consistency).
+            </p>
+            <p>
+             Don't be afraid to create maps during sessions either. Keep new, mid-game maps simple and then flesh them out or colour them in afterwards. And feel free to make notes on your maps as well--another good way to keep consistent.
+            </p>
+            <h3>
+             Tip #5: Create Mental Associations To Remember Facts Better
+            </h3>
+            <p>
+             To help keep the information you develop on-the-fly clear and straight in your mind for consistency, try using some of these classic memory techniques:
+            </p>
+            <ul>
+             <li>
+              Use word rhymes to remember names
+             </li>
+             <li>
+              Visualize objects, NPCs, names and numbers stacked in rows
+             </li>
+             <li>
+              Create acronyms (i.e. SCUBA) and special phrases where the first letter of each word is associated with a campaign detail
+             </li>
+            </ul>
+            <h3>
+             Tip #6: Review Each Session Several Times To Keep Details Fresh In Your Mind
+            </h3>
+            <p>
+             The more times you recall and review the game session information which you made up as you went along, the better you'll remember it. And if you can remember important information that's needed for campaign consistency, you won't need to take boring notes, keep lists or be weighted down with paper.
+            </p>
+            <ul>
+             <li>
+              Have one or more players summarize the session's events, NPC names, and details out loud to the group at the end of each session. Hearing the information will help you (and everyone else) remember it better.
+             </li>
+             <li>
+              Have you or a player summarize out loud what happened last session for the group at the beginning of each session.
+             </li>
+             <li>
+              Write what happened each session in a short story or journal type format.
+             </li>
+             <li>
+              Run the session like a movie in your mind on your way home from the session or as you go to sleep that night. And play the session as a full-motion, in-colour with sound movie just before the next session and as many times as you like in between sessions.
+             </li>
+             <li>
+              Make a comic strip or sequence of doodles about the events and details of last session. Re-read once in awhile.
+             </li>
+            </ul>
+            <h3>
+             Summary
+            </h3>
+            <p>
+             Game mastering on-the-fly is a worthwhile skill to learn. And, it is a skill, which means practicing the techniques mentioned above will make you better--it's not something just a special few with natural talent can do. You can do it too. And, if you're a right-brained creative person, you should focus on using your creative talents like drawing, writing and visualization through imagination to help you remember key campaign information.
+            </p>
+            <p>
+             If you liked these tips and are interested in what I, as a left-brainer, do to keep consistency up while winging-it, read my article "
+             <a href="http://www.roleplayingtips.com/issue43.asp">
+              How To Maintain Consistency In Your Game For Left-Brained Game Masters"
+             </a>
+             .
+            </p>
+            <p>
+             Also, if you have any on-the-fly tips of your own I'd love to hear them. E-mail me directly at
+             <a href="mailto:johnn@roleplayingtips.com">
+              johnn@roleplayingtips.com
+             </a>
+             .
+            </p>
+           </div>
+          </td>
+         </tr>
+        </table>
+        <br class="clear-both"/>
+        <div class="content-footer">
+         <p>
+          <a href="/">
+           Home
+          </a>
+          ~
+          <a href="/archives/">
+           Game Master Newsletter
+          </a>
+          ~
+          <a href="/subscribe/">
+           Subscribe
+          </a>
+          ~
+          <a href="/articles/">
+           Game Master Articles
+          </a>
+          ~
+          <a href="/contact/">
+           Contact
+          </a>
+          <br/>
+         </p>
+         <p style="margin: 20px 0 0 0; font-weight: bold;">
+          Thank you for visiting. Have more fun at every game!
+         </p>
+         <p>
+          Copyright  2014 Johnn Four, RoleplayingTips.com. All Rights Reserved.
+         </p>
+        </div>
+       </td>
+      </tr>
+     </table>
+    </td>
+   </tr>
+  </table>
+ </body>
+</html>

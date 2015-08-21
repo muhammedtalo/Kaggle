@@ -1,0 +1,1155 @@
+<!DOCTYPE html>
+<html lang="en-US" xmlns:addthis="http://www.addthis.com/help/api-spec" xmlns:fb="http://ogp.me/ns/fb#">
+ <head>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <title>
+   Robbie and Bobby - The Oligarchy Of Skulls
+  </title>
+  <link href="http://robbieandbobby.com/wp-content/themes/comicpress-RNB-2.0/style.css?v=9" media="screen" rel="stylesheet" type="text/css"/>
+  <link href="http://robbieandbobby.com/xmlrpc.php" rel="pingback"/>
+  <meta content="2.9.4" name="ComicPress"/>
+  <link href="http://robbieandbobby.com/feed/" rel="alternate" title="Robbie and Bobby  Feed" type="application/rss+xml"/>
+  <link href="http://robbieandbobby.com/comments/feed/" rel="alternate" title="Robbie and Bobby  Comments Feed" type="application/rss+xml"/>
+  <link href="http://robbieandbobby.com/the-oligarchy-of-skulls/feed/" rel="alternate" title="Robbie and Bobby  The Oligarchy Of Skulls Comments Feed" type="application/rss+xml"/>
+  <link href="http://robbieandbobby.com/wp-content/themes/comicpress-RNB-2.0/images/nav/robbie/navstyle.css?ver=4.0" id="navstyle-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://robbieandbobby.com/wp-content/plugins/addthis/css/output.css?ver=4.0" id="output-css" media="all" rel="stylesheet" type="text/css"/>
+  <script type="text/javascript">
+   var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-18130123-4']);
+	_gaq.push(['_gat._forceSSL']);
+	_gaq.push(['_trackPageview']);
+
+	(function () {
+		var ga = document.createElement('script');
+		ga.type = 'text/javascript';
+		ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(ga, s);
+	})();
+  </script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   try{jQuery.noConflict();}catch(e){};
+  </script>
+  <script src="http://robbieandbobby.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1" type="text/javascript">
+  </script>
+  <link href="http://robbieandbobby.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+  <link href="http://robbieandbobby.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+  <link href="http://robbieandbobby.com/the-oligarchy-of-skulls/" rel="canonical"/>
+  <link href="http://robbieandbobby.com/?p=6704" rel="shortlink"/>
+  <script type="text/javascript">
+   var _sf_startpt=(new Date()).getTime()
+  </script>
+  <script src="http://robbieandbobby.com/wp-content/themes/comicpress-RNB-2.0/rb.js?v=2" type="text/javascript">
+  </script>
+  <script src="http://robbieandbobby.com/wp-content/themes/comicpress-RNB-2.0/jquery.als-1.2.min.js" type="text/javascript">
+  </script>
+ </head>
+ <body class="single single-post postid-6704 single-format-standard user-guest comic ie single-category-comic single-category-volume-three-innerstrength-exe single-author-admin pm day wed layout-3c">
+  <div id="page-wide-wrap">
+   <div id="page-wide">
+    <div id="header">
+     <h1>
+      <a href="http://robbieandbobby.com">
+       Robbie and Bobby
+      </a>
+     </h1>
+     <div class="description">
+      Comics about a Robot and his Boy
+     </div>
+     <div class="customsidebar " id="sidebar-header">
+      <div class="widget widget_text" id="text-11">
+       <div class="widget-content">
+        <div class="textwidget">
+         <div id="topheader">
+          <br/>
+          <div align="left">
+           <a class="spritesheet" href="http://robbieandbobby.com" id="toplogo" style="
+    width: 210px;
+" title="Robbie and Bobby Homepage">
+           </a>
+          </div>
+          <div class="spritesheet" id="topconnectbar">
+           <a class="spritesheet connectfacebook" href="https://www.facebook.com/robbieandbobby" id="connectfacebook" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'https://www.facebook.com/robbieandbobby', '']);" target="_blank" title="R&amp;B on FB">
+           </a>
+           <a class="spritesheet" href="https://twitter.com/robbieandbobby" id="connecttwitter" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'https://twitter.com/robbieandbobby', '']);" target="_blank" title="I like to tweet">
+           </a>
+           <a class="spritesheet" href="http://www.robbieandbobby.tumblr.com/" id="connecttumblr" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://www.robbieandbobby.tumblr.com/', '']);" target="_blank" title="I post drawings on Tumblr">
+           </a>
+           <a class="spritesheet" href="https://plus.google.com/u/0/104287251281519615992/posts" id="connectgoogleplus" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'https://plus.google.com/u/0/104287251281519615992/posts', '']);" target="_blank" title="Updates via Google+">
+           </a>
+           <a class="spritesheet" href="http://feeds.feedburner.com/robbieandbobby" id="connectfeed" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://feeds.feedburner.com/robbieandbobby', '']);" target="_blank" title="RSS Feed">
+           </a>
+           <a class="spritesheet" href="/cdn-cgi/l/email-protection#d8f8b2b9abb7b6bfa8b7b4b9b6bc98bfb5b9b1b4f6bbb7b5" id="connectemail" onclick="_gaq.push(['_trackEvent','mailto',' jasongpoland@gmail.com']);" title="Contact me">
+           </a>
+          </div>
+          <br/>
+          <br/>
+          <br/>
+          <div align="right">
+           <div id="ad-leaderboard-placeholder" style="width:728px; height:90px; overflow:hidden">
+           </div>
+          </div>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          <div class="spritesheet" id="mainmenutop">
+           <a class="spritesheet" href="http://robbieandbobby.storenvy.com/" id="topstore" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://robbieandbobby.storenvy.com/', '']);" target="_blank" title="Buy Robbie &amp; Bobby merch">
+           </a>
+           <a class="spritesheet" href="http://robbieandbobby.com/about/" id="topabout" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://robbieandbobby.com/about/', '']);" title="The Scoop on the robot and his boy">
+           </a>
+           <a class="spritesheet" href="http://robbieandbobby.com/archive/" id="toparchive" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://robbieandbobby.com/archive/', '']);" title="Explore 10 years of R&amp;B comics">
+           </a>
+           <a class="spritesheet" href="http://www.robbieandbobby.tumblr.com/" id="toptumblr" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://www.robbieandbobby.tumblr.com/', '']);" target="_blank" title="Follow my Tumblr for new illustrations">
+           </a>
+          </div>
+          <div class="widget widget_search" id="search-3" style="
+width: 130px;
+position: absolute;
+left: 793px;
+margin-bottom: 0px;
+bottom: 0px;
+text-align: right;
+">
+           <div class="widget-content">
+            <form action="http://robbieandbobby.com" id="searchform" method="get">
+             <div>
+              <input id="s-search" name="s" onblur="this.value=(this.value=='') ? 'Search...' : this.value;" onfocus="this.value=(this.value=='Search...') ? '' : this.value;" style="
+width: 90px;
+" type="text" value="Search..."/>
+              <button type="submit">
+               
+              </button>
+             </div>
+             <div class="clear">
+             </div>
+            </form>
+           </div>
+          </div>
+          <div style="clear:both;">
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="widget widget_text" id="text-17">
+       <div class="widget-content">
+        <div class="textwidget">
+         <div class="spritesheet" id="topdivider">
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="clear">
+     </div>
+    </div>
+    <div id="content-wrapper">
+     <div class="comic-id-6704" id="comic-wrap">
+      <div id="comic-head">
+       <div class="customsidebar " id="sidebar-overcomic">
+        <div class="widget comicpress_comic_title_widget" id="comicpress_comic_title_widget-3">
+         <div class="widget-content">
+          <a href="http://robbieandbobby.com/the-oligarchy-of-skulls/">
+           The Oligarchy Of Skulls
+          </a>
+         </div>
+        </div>
+        <div class="widget comicpress_comic_date_widget" id="comicpress_comic_date_widget-3">
+         <div class="widget-content">
+          Wed, 3/27/2013
+         </div>
+        </div>
+        <div class="comic_navi_wrapper">
+         <table class="comic_navi">
+          <tr>
+           <td class="comic_navi_left">
+            <a class="navi navi-first" href="http://robbieandbobby.com/pony-comics/" title="">
+            </a>
+            <a class="navi navi-prev" href="http://robbieandbobby.com/deferred-gratification/" title="">
+            </a>
+           </td>
+           <td class="comic_navi_center">
+            <a class="navi navi-random" href="http://robbieandbobby.com/?randomcomic&amp;nocache=1" title="">
+            </a>
+           </td>
+           <td class="comic_navi_right">
+            <a class="navi navi-next" href="http://robbieandbobby.com/tourist-desperation/" title="">
+            </a>
+            <a class="navi navi-last" href="/?latestcomic&amp;nocache=1" title="">
+            </a>
+           </td>
+          </tr>
+         </table>
+        </div>
+        <div class="widget widget_text" id="text-16">
+         <div class="widget-content">
+          <div class="textwidget">
+           <div id="additionaltopnav">
+            <a class="spritesheet" href="#relatedcomicsblock" id="relatedcomicsnav" title="Related comics">
+            </a>
+            <a class="spritesheet" href="#toma_msp-3" id="readerfavesnav" title="Reader faves">
+            </a>
+            <div style="clear:both;">
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="widget widget_text" id="text-36">
+         <div class="widget-content">
+          <div class="textwidget">
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="clear">
+      </div>
+      <div id="comic">
+       <div class="comicpane" id="comic-1">
+        <a href="http://robbieandbobby.com/tourist-desperation/" title="...with sprinkles!">
+         <img alt="...with sprinkles!" src="http://robbieandbobby.com/comics/2013-03-27-The-Oligarchy-of-Skulls.png" title="...with sprinkles!"/>
+        </a>
+       </div>
+      </div>
+      <div class="clear">
+      </div>
+      <div id="comic-foot">
+       <div class="customsidebar " id="sidebar-undercomic">
+        <div class="widget comicpress_transcript_widget" id="comicpress_transcript_widget-3">
+         <div class="widget-content">
+          BOBBY: It's called "ice cream!"
+SKULLS: This pleases ussss
+SKULLS: [sllp slrp slp]
+SKULLS: Watch usss devour it
+BOBBY: Yep. Y'all are the best at enjoying ice cream
+SKULLS: thanksss
+         </div>
+        </div>
+        <div class="widget widget_text" id="text-32">
+         <div class="widget-content">
+          <div class="textwidget">
+           <br/>
+          </div>
+         </div>
+        </div>
+        <div class="comic_navi_wrapper">
+         <table class="comic_navi">
+          <tr>
+           <td class="comic_navi_left">
+            <a class="navi navi-first" href="http://robbieandbobby.com/pony-comics/" title="  ">
+            </a>
+            <a class="navi navi-prev" href="http://robbieandbobby.com/deferred-gratification/" title="">
+            </a>
+           </td>
+           <td class="comic_navi_center">
+            <a class="navi navi-archives navi-archive" href="http://robbieandbobby.com/archive/" title="">
+            </a>
+            <a class="navi navi-random" href="http://robbieandbobby.com/?randomcomic&amp;nocache=1" title="">
+            </a>
+           </td>
+           <td class="comic_navi_right">
+            <a class="navi navi-next" href="http://robbieandbobby.com/tourist-desperation/" title="">
+            </a>
+            <a class="navi navi-last" href="/?latestcomic&amp;nocache=1" title="">
+            </a>
+           </td>
+          </tr>
+         </table>
+        </div>
+        <div class="widget widget_text" id="text-15">
+         <div class="widget-content">
+          <div class="textwidget">
+          </div>
+         </div>
+        </div>
+        <div class="widget widget_execphp" id="execphp-3">
+         <div class="widget-content">
+          <div class="execphpwidget">
+           <style>
+            div.addthis_toolbox{float:right!important;width:160px;margin:0 auto;}
+           </style>
+           <div class="addthis_toolbox addthis_default_style addthis_16x16_style">
+            <a class="addthis_button_facebook">
+            </a>
+            <a class="addthis_button_twitter">
+            </a>
+            <a class="addthis_button_reddit">
+            </a>
+            <a class="addthis_button_stumbleupon">
+            </a>
+            <a class="addthis_button_tumblr">
+            </a>
+            <a class="addthis_button_digg">
+            </a>
+            <a class="addthis_button_google_plusone" g:plusone:annotation="none">
+            </a>
+           </div>
+           <br/>
+          </div>
+         </div>
+        </div>
+        <div class="widget widget_text" id="text-35">
+         <div class="widget-content">
+          <div class="textwidget">
+           <br/>
+          </div>
+         </div>
+        </div>
+        <div class="widget widget_yarpp_widget" id="yarpp_widget-3">
+         <div class="widget-content">
+          <div class="yarpp-related-widget">
+           <style type="text/css">
+            .relatedcomicli{float:left;margin:0 5px!important;}.relatedcomicli img{max-height:150px;max-width:150px;opacity:0.65;filter:alpha(opacity=65);}img:hover{opacity:1.0;filter:alpha(opacity=100);}.als-container{position:relative;width:100%;margin:0px auto;z-index:0;}.als-viewport{position:relative;overflow:hidden;margin:0px auto;height:163px;width:800px;}.als-wrapper{position:relative;list-style:none;}.als-item{position:relative;display:block;text-align:center;cursor:pointer;float:left;}.als-prev,.als-next{position:absolute;cursor:pointer;clear:both;color:#000;font-size:55px;font-weight:bolder;top:50px;}a: hover {
+color:#F00!important;
+}.als-prev{left:15px;}.als-next{right:15px;}
+           </style>
+           <div id="relatedcomicsblock" style="display:block;position: absolute; height:212px; bottom:-220px; width: 960px;">
+            <h2 style="font-size: 12px; color:#000; text-align: center; letter-spacing: 1px;">
+             <br/>
+            </h2>
+            <div class="als-container" id="my-als-list">
+             <span class="als-prev">
+              <img alt="More Related Comics" src="http://robbieandbobby.com/wp-content/uploads/2013/10/previous.png"/>
+             </span>
+             <div class="als-viewport">
+              <ul class="als-wrapper" id="relatedpoststhumbs">
+               <li class="relatedcomicli als-item" id="relatedcomic-0">
+                <a href="http://robbieandbobby.com/weapon-of-choice/?ref=relatedcomics" rel="bookmark">
+                 <div class="thumb">
+                  <img src="http://robbieandbobby.com/comics-firstpanel/2011-04-28-2011-4-28-Weapon-of-Choice.png"/>
+                 </div>
+                 Weapon of Choice
+                </a>
+               </li>
+               <li class="relatedcomicli als-item" id="relatedcomic-1">
+                <a href="http://robbieandbobby.com/the-last-slice/?ref=relatedcomics" rel="bookmark">
+                 <div class="thumb">
+                  <img src="http://robbieandbobby.com/comics-firstpanel/2013-03-21-The-Last-Slice.png"/>
+                 </div>
+                 The Last Slice
+                </a>
+               </li>
+               <li class="relatedcomicli als-item" id="relatedcomic-2">
+                <a href="http://robbieandbobby.com/golden-boy/?ref=relatedcomics" rel="bookmark">
+                 <div class="thumb">
+                  <img src="http://robbieandbobby.com/comics-firstpanel/2012-10-26-Sunny-Outlook.png"/>
+                 </div>
+                 Golden Boy
+                </a>
+               </li>
+               <li class="relatedcomicli als-item" id="relatedcomic-3">
+                <a href="http://robbieandbobby.com/pumpkin-spice-4-and-5/?ref=relatedcomics" rel="bookmark">
+                 <div class="thumb">
+                  <img src="http://robbieandbobby.com/comics-firstpanel/2013-11-01-Pumpkin-Spice-4-and-5.png"/>
+                 </div>
+                 Pumpkin Spice 4 And 5
+                </a>
+               </li>
+               <li class="relatedcomicli als-item" id="relatedcomic-4">
+                <a href="http://robbieandbobby.com/x-ray-specs/?ref=relatedcomics" rel="bookmark">
+                 <div class="thumb">
+                  <img src="http://robbieandbobby.com/comics-firstpanel/2013-10-18-XRay-Specs.png"/>
+                 </div>
+                 X-Ray Specs
+                </a>
+               </li>
+               <li class="relatedcomicli als-item" id="relatedcomic-5">
+                <a href="http://robbieandbobby.com/rich-comics/?ref=relatedcomics" rel="bookmark">
+                 <div class="thumb">
+                  <img src="http://robbieandbobby.com/comics-firstpanel/2013-11-26-Rich-Comics.png"/>
+                 </div>
+                 Rich Comics
+                </a>
+               </li>
+               <li class="relatedcomicli als-item" id="relatedcomic-6">
+                <a href="http://robbieandbobby.com/wishing-well/?ref=relatedcomics" rel="bookmark">
+                 <div class="thumb">
+                  <img src="http://robbieandbobby.com/comics-firstpanel/2013-12-19-Wishing-Well.png"/>
+                 </div>
+                 Wishing Well
+                </a>
+               </li>
+               <li class="relatedcomicli als-item" id="relatedcomic-7">
+                <a href="http://robbieandbobby.com/bad-movies/?ref=relatedcomics" rel="bookmark">
+                 <div class="thumb">
+                  <img src="http://robbieandbobby.com/comics-firstpanel/2013-02-07-Bad-Movies.png"/>
+                 </div>
+                 Bad Movies
+                </a>
+               </li>
+               <li class="relatedcomicli als-item" id="relatedcomic-8">
+                <a href="http://robbieandbobby.com/thirsty/?ref=relatedcomics" rel="bookmark">
+                 <div class="thumb">
+                  <img src="http://robbieandbobby.com/comics-firstpanel/2013-01-30-Thirsty.png"/>
+                 </div>
+                 Thirsty
+                </a>
+               </li>
+               <li class="relatedcomicli als-item" id="relatedcomic-9">
+                <a href="http://robbieandbobby.com/balloon-dogs/?ref=relatedcomics" rel="bookmark">
+                 <div class="thumb">
+                  <img src="http://robbieandbobby.com/comics-firstpanel/2013-05-08-Balloon-Dogs.png"/>
+                 </div>
+                 Balloon Dogs
+                </a>
+               </li>
+               <li class="relatedcomicli als-item" id="relatedcomic-10">
+                <a href="http://robbieandbobby.com/halloween-ijinks/?ref=relatedcomics" rel="bookmark">
+                 <div class="thumb">
+                  <img src="http://robbieandbobby.com/comics-firstpanel/2012-10-31-Halloween-Hijinks.png"/>
+                 </div>
+                 Halloween Hijinks
+                </a>
+               </li>
+               <li class="relatedcomicli als-item" id="relatedcomic-11">
+                <a href="http://robbieandbobby.com/cellar-door/?ref=relatedcomics" rel="bookmark">
+                 <div class="thumb">
+                  <img src="http://robbieandbobby.com/comics-firstpanel/2012-01-09-Cellar-Door.png"/>
+                 </div>
+                 Cellar Door
+                </a>
+               </li>
+               <li class="relatedcomicli als-item" id="relatedcomic-12">
+                <a href="http://robbieandbobby.com/hobo-woes/?ref=relatedcomics" rel="bookmark">
+                 <div class="thumb">
+                  <img src="http://robbieandbobby.com/comics-firstpanel/2011-09-27-Hobo-Woes.png"/>
+                 </div>
+                 Hobo Woes
+                </a>
+               </li>
+               <li class="relatedcomicli als-item" id="relatedcomic-13">
+                <a href="http://robbieandbobby.com/the-golem/?ref=relatedcomics" rel="bookmark">
+                 <div class="thumb">
+                  <img src="http://robbieandbobby.com/comics-firstpanel/2011-08-30-The-Golem.png"/>
+                 </div>
+                 The Golem
+                </a>
+               </li>
+               <li class="relatedcomicli als-item" id="relatedcomic-14">
+                <a href="http://robbieandbobby.com/big-bobby-week-1/?ref=relatedcomics" rel="bookmark">
+                 <div class="thumb">
+                  <img src="http://robbieandbobby.com/comics-firstpanel/2011-06-27-Dream-Big.png"/>
+                 </div>
+                 Big Bobby Week 1
+                </a>
+               </li>
+               <li class="relatedcomicli als-item" id="relatedcomic-15">
+                <a href="http://robbieandbobby.com/stuffed-crust/?ref=relatedcomics" rel="bookmark">
+                 <div class="thumb">
+                  <img src="http://robbieandbobby.com/comics-firstpanel/2011-06-16-Stuffed-Crust.png"/>
+                 </div>
+                 Stuffed Crust
+                </a>
+               </li>
+               <li class="relatedcomicli als-item" id="relatedcomic-16">
+                <a href="http://robbieandbobby.com/significant-cookie/?ref=relatedcomics" rel="bookmark">
+                 <div class="thumb">
+                  <img src="http://robbieandbobby.com/comics-firstpanel/2011-06-09-Significant-Cookie.png"/>
+                 </div>
+                 Significant Cookie
+                </a>
+               </li>
+               <li class="relatedcomicli als-item" id="relatedcomic-17">
+                <a href="http://robbieandbobby.com/a-slice-of-life/?ref=relatedcomics" rel="bookmark">
+                 <div class="thumb">
+                  <img src="http://robbieandbobby.com/comics-firstpanel/2011-05-06-A-Slice-of-Life.png"/>
+                 </div>
+                 A Slice of Life
+                </a>
+               </li>
+               <li class="relatedcomicli als-item" id="relatedcomic-18">
+                <a href="http://robbieandbobby.com/a-time-to-remember/?ref=relatedcomics" rel="bookmark">
+                 <div class="thumb">
+                  <img src="http://robbieandbobby.com/comics-firstpanel/2011-04-29-2011-4-29-A-Time-To-Remember.png"/>
+                 </div>
+                 A Time to Remember
+                </a>
+               </li>
+               <li class="relatedcomicli als-item" id="relatedcomic-19">
+                <a href="http://robbieandbobby.com/life-drawing/?ref=relatedcomics" rel="bookmark">
+                 <div class="thumb">
+                  <img src="http://robbieandbobby.com/comics-firstpanel/2014-02-20-Life-Drawing.png"/>
+                 </div>
+                 Life Drawing
+                </a>
+               </li>
+               <li class="relatedcomicli als-item" id="relatedcomic-20">
+                <a href="http://robbieandbobby.com/groupon/?ref=relatedcomics" rel="bookmark">
+                 <div class="thumb">
+                  <img src="http://robbieandbobby.com/comics-firstpanel/2012-05-11-Groupon.png"/>
+                 </div>
+                 Groupon
+                </a>
+               </li>
+               <li class="relatedcomicli als-item" id="relatedcomic-21">
+                <a href="http://robbieandbobby.com/house-plants/?ref=relatedcomics" rel="bookmark">
+                 <div class="thumb">
+                  <img src="http://robbieandbobby.com/comics-firstpanel/2013-07-16-House-Plants.png"/>
+                 </div>
+                 House Plants
+                </a>
+               </li>
+               <li class="relatedcomicli als-item" id="relatedcomic-22">
+                <a href="http://robbieandbobby.com/wine-surprise/?ref=relatedcomics" rel="bookmark">
+                 <div class="thumb">
+                  <img src="http://robbieandbobby.com/comics-firstpanel/2013-11-14-Wine-Surprise.png"/>
+                 </div>
+                 Wine Surprise
+                </a>
+               </li>
+               <li class="relatedcomicli als-item" id="relatedcomic-23">
+                <a href="http://robbieandbobby.com/bad-habits/?ref=relatedcomics" rel="bookmark">
+                 <div class="thumb">
+                  <img src="http://robbieandbobby.com/comics-firstpanel/2014-01-09-Bad-Habits.png"/>
+                 </div>
+                 Bad Habits
+                </a>
+               </li>
+               <li class="relatedcomicli als-item" id="relatedcomic-24">
+                <a href="http://robbieandbobby.com/managers-special/?ref=relatedcomics" rel="bookmark">
+                 <div class="thumb">
+                  <img src="http://robbieandbobby.com/comics-firstpanel/2013-12-17-Manager%27s-Special.png"/>
+                 </div>
+                 Managers Special
+                </a>
+               </li>
+               <li style="list-style: none; clear:both;">
+               </li>
+              </ul>
+             </div>
+             <span class="als-next">
+              <img alt="Even More Related Comics" src="http://robbieandbobby.com/wp-content/uploads/2013/10/next.png"/>
+             </span>
+            </div>
+            <div style="clear:both;">
+            </div>
+           </div>
+           <script type="text/javascript">
+            jQuery(document).ready(function(){
+		jQuery("#my-als-list").als({
+		visible_items: 5,
+		scrolling_items: 5,
+		circular: "yes"
+		});
+	});
+           </script>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div id="subcontent-wrapper">
+      <div id="sidebar-left">
+       <div class="sidebar">
+        <div class="widget widget_text" id="text-26">
+         <div class="widget-content">
+          <div class="textwidget">
+          </div>
+         </div>
+        </div>
+        <div class="widget widget_text" id="text-45">
+         <div class="widget-content">
+          <div class="textwidget">
+           <br/>
+           <br/>
+           <div align="center">
+            <a href="http://robbieandbobby.storenvy.com/" target="_blank">
+             <img src="http://robbieandbobby.com/wp-content/uploads/2013/10/buythebooks5.gif"/>
+            </a>
+           </div>
+           <br/>
+          </div>
+         </div>
+        </div>
+        <div class="widget widget_text" id="text-4">
+         <div class="widget-content">
+          <div class="textwidget">
+           <br/>
+           <a href="http://www.thehiveworks.com/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://www.thehiveworks.com/', ' ']);" target="_blank">
+            <img src="http://robbieandbobby.com/wp-content/uploads/2014/10/hive_small.png"/>
+           </a>
+           <br/>
+           <br/>
+          </div>
+         </div>
+        </div>
+        <div class="widget widget_text" id="text-44">
+         <div class="widget-content">
+          <div class="textwidget">
+           <script src="http://invisiblebread.com/server-pals/serverpals.js">
+           </script>
+           <div id="serverpals-master" style="padding-bottom:20px;">
+           </div>
+           <script type="text/javascript">
+            render_pals_widget( 'serverpals-master' );
+           </script>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="narrowcolumn" id="content">
+       <div class="customsidebar " id="sidebar-overblog">
+        <div class="widget widget_text" id="text-24">
+         <div class="widget-content">
+          <div class="textwidget">
+           <div style="clear:both;">
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="nav">
+        <div class="nav-first">
+         <a href="http://robbieandbobby.com/pony-comics/">
+           First
+         </a>
+        </div>
+        <div class="nav-previous">
+         <a href="http://robbieandbobby.com/deferred-gratification/" rel="prev">
+           Previous
+         </a>
+        </div>
+        <div class="nav-next">
+         <a href="http://robbieandbobby.com/tourist-desperation/" rel="next">
+          Next 
+         </a>
+        </div>
+        <div class="nav-last">
+         <a href="http://robbieandbobby.com/messy-eater/">
+          Last 
+         </a>
+        </div>
+       </div>
+       <div class="clear">
+       </div>
+       <div class="post-6704 post type-post status-publish format-standard hentry category-comic category-volume-three-innerstrength-exe tag-death tag-greed tag-monsters tag-pandering uentry post-comic postonpage-1 odd post-author-admin">
+        <div class="post-content">
+         <div class="post-info">
+          <div class="post-text">
+           <h2 class="post-title">
+            <a href="http://robbieandbobby.com/the-oligarchy-of-skulls/">
+             The Oligarchy Of Skulls
+            </a>
+           </h2>
+           <span class="post-author">
+            by
+            <a href="http://robbieandbobby.com/author/admin/">
+             Jason Poland
+            </a>
+           </span>
+           <span class="posted-on">
+            on
+           </span>
+           <span class="post-date">
+            March 27, 2013
+           </span>
+           <span class="posted-at">
+            at
+           </span>
+           <span class="post-time">
+            12:40 pm
+           </span>
+           <ul class="storyline-cats">
+            <li class="storyline-root">
+             <a href="http://robbieandbobby.com/category/comic/" rel="category tag">
+              Comic
+             </a>
+             
+            </li>
+            <li>
+             <a href="http://robbieandbobby.com/category/comic/volume-three-innerstrength-exe/" rel="category tag">
+              Volume Three: Endless Willpower
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+         <div class="clear">
+         </div>
+         <div class="entry">
+          <p>
+           Its always nice to share your interests with new friends.
+          </p>
+          <p>
+           <em>
+            It also seems this isnt the first time Bobbys desserts have brought out the
+            <a href="http://robbieandbobby.com/robbie-and-bobby-186/" onclick="_gaq.push(['_trackEvent', 'outbound-article-int', 'http://robbieandbobby.com/robbie-and-bobby-186/', 'Denizens of the Damned.']);" target="_blank" title="Unholy Flavor">
+             Denizens of the Damned.
+            </a>
+           </em>
+          </p>
+          <div class="clear">
+          </div>
+         </div>
+         <div class="clear">
+         </div>
+         <div class="post-extras">
+          <div class="post-tags">
+            Tags:
+           <a href="http://robbieandbobby.com/tag/death/" rel="tag">
+            death
+           </a>
+           ,
+           <a href="http://robbieandbobby.com/tag/greed/" rel="tag">
+            greed
+           </a>
+           ,
+           <a href="http://robbieandbobby.com/tag/monsters/" rel="tag">
+            monsters
+           </a>
+           ,
+           <a href="http://robbieandbobby.com/tag/pandering/" rel="tag">
+            pandering
+           </a>
+           <br/>
+          </div>
+          <div class="clear">
+          </div>
+         </div>
+        </div>
+       </div>
+       <div id="comment-wrapper">
+        <h3 id="comments">
+         Discussion (5) 
+        </h3>
+        <div class="commentsrsslink">
+         [
+         <a href="http://robbieandbobby.com/the-oligarchy-of-skulls/feed/">
+          Comments RSS
+         </a>
+         ]
+        </div>
+        <ol class="commentlist">
+         <li class="comment even thread-even depth-1" id="comment-7006">
+          <div class="comment-avatar">
+           <img alt="nightmarepumpkin" class="avatar avatar-64 photo instant nocorner itxtalt" height="64" src="http://1.gravatar.com/avatar/753ef813b9b4202f07086fce7e00e215?s=64&amp;d=http%3A%2F%2Frobbieandbobby.com%2Fwp-content%2Fthemes%2Fcomicpress-RNB-2.0%2Fimages%2Favatars%2FRobbieBobby%2FKittenCustomer.png%3Fs%3D64&amp;r=G" width="64"/>
+          </div>
+          <div class="comment-content">
+           <div class="comment-author vcard">
+            <cite>
+             nightmarepumpkin
+            </cite>
+           </div>
+           <div class="comment-meta-data">
+            <span class="comment-time" title="Wednesday, March 27th, 2013, 5:42 pm">
+             March 27, 2013 at 5:42 pm
+            </span>
+            <span class="comment-permalink">
+             <span class="separator">
+              |
+             </span>
+             <a href="#comment-7006" title="Permalink to comment">
+              #
+             </a>
+            </span>
+            <span class="comment-reply-link">
+             <span class="separator">
+              |
+             </span>
+             <a class="comment-reply-link" href="/the-oligarchy-of-skulls/?replytocom=7006#respond" onclick='return addComment.moveForm("comment-7006", "7006", "respond", "6704")'>
+              Reply
+             </a>
+            </span>
+           </div>
+           <div class="comment-text">
+            <p>
+             always the best, sigh some of your friends just never get it do they
+            </p>
+           </div>
+          </div>
+          <div class="clear">
+          </div>
+          <ul class="children">
+           <li class="comment byuser comment-author-admin bypostauthor odd alt depth-2" id="comment-7041">
+            <div class="comment-avatar">
+             <img alt="Jason Poland" class="avatar avatar-64 photo instant nocorner itxtalt" height="64" src="http://1.gravatar.com/avatar/7057579a131855690b4e4ea9d1f9e03a?s=64&amp;d=http%3A%2F%2Frobbieandbobby.com%2Fwp-content%2Fthemes%2Fcomicpress-RNB-2.0%2Fimages%2Favatars%2FRobbieBobby%2FSaltMermaid.png%3Fs%3D64&amp;r=G" width="64"/>
+            </div>
+            <div class="comment-content">
+             <div class="comment-author vcard">
+              <cite>
+               Jason Poland
+              </cite>
+             </div>
+             <div class="comment-meta-data">
+              <span class="comment-time" title="Saturday, March 30th, 2013, 3:36 pm">
+               March 30, 2013 at 3:36 pm
+              </span>
+              <span class="comment-permalink">
+               <span class="separator">
+                |
+               </span>
+               <a href="#comment-7041" title="Permalink to comment">
+                #
+               </a>
+              </span>
+              <span class="comment-reply-link">
+               <span class="separator">
+                |
+               </span>
+               <a class="comment-reply-link" href="/the-oligarchy-of-skulls/?replytocom=7041#respond" onclick='return addComment.moveForm("comment-7041", "7041", "respond", "6704")'>
+                Reply
+               </a>
+              </span>
+             </div>
+             <div class="comment-text">
+              <p>
+               Even among the Halls of Ash and Sulfur, The Oligarchy of Skulls is known for trying too hard, and ruining all the fun.
+              </p>
+             </div>
+            </div>
+            <div class="clear">
+            </div>
+           </li>
+          </ul>
+          <!-- .children -->
+         </li>
+         <li class="comment even thread-odd thread-alt depth-1" id="comment-7008">
+          <div class="comment-avatar">
+           <img alt="nightmarepumpkin" class="avatar avatar-64 photo instant nocorner itxtalt" height="64" src="http://1.gravatar.com/avatar/753ef813b9b4202f07086fce7e00e215?s=64&amp;d=http%3A%2F%2Frobbieandbobby.com%2Fwp-content%2Fthemes%2Fcomicpress-RNB-2.0%2Fimages%2Favatars%2FRobbieBobby%2FKittenCustomer.png%3Fs%3D64&amp;r=G" width="64"/>
+          </div>
+          <div class="comment-content">
+           <div class="comment-author vcard">
+            <cite>
+             nightmarepumpkin
+            </cite>
+           </div>
+           <div class="comment-meta-data">
+            <span class="comment-time" title="Wednesday, March 27th, 2013, 6:13 pm">
+             March 27, 2013 at 6:13 pm
+            </span>
+            <span class="comment-permalink">
+             <span class="separator">
+              |
+             </span>
+             <a href="#comment-7008" title="Permalink to comment">
+              #
+             </a>
+            </span>
+            <span class="comment-reply-link">
+             <span class="separator">
+              |
+             </span>
+             <a class="comment-reply-link" href="/the-oligarchy-of-skulls/?replytocom=7008#respond" onclick='return addComment.moveForm("comment-7008", "7008", "respond", "6704")'>
+              Reply
+             </a>
+            </span>
+           </div>
+           <div class="comment-text">
+            <p>
+             taking a look back at the duck pond comic, i am remembering the good times and the always awesome bonus panel.. we miss it jason we miss our bonus
+            </p>
+           </div>
+          </div>
+          <div class="clear">
+          </div>
+          <ul class="children">
+           <li class="comment byuser comment-author-admin bypostauthor odd alt depth-2" id="comment-7042">
+            <div class="comment-avatar">
+             <img alt="Jason Poland" class="avatar avatar-64 photo instant nocorner itxtalt" height="64" src="http://1.gravatar.com/avatar/7057579a131855690b4e4ea9d1f9e03a?s=64&amp;d=http%3A%2F%2Frobbieandbobby.com%2Fwp-content%2Fthemes%2Fcomicpress-RNB-2.0%2Fimages%2Favatars%2FRobbieBobby%2FSaltMermaid.png%3Fs%3D64&amp;r=G" width="64"/>
+            </div>
+            <div class="comment-content">
+             <div class="comment-author vcard">
+              <cite>
+               Jason Poland
+              </cite>
+             </div>
+             <div class="comment-meta-data">
+              <span class="comment-time" title="Saturday, March 30th, 2013, 3:37 pm">
+               March 30, 2013 at 3:37 pm
+              </span>
+              <span class="comment-permalink">
+               <span class="separator">
+                |
+               </span>
+               <a href="#comment-7042" title="Permalink to comment">
+                #
+               </a>
+              </span>
+              <span class="comment-reply-link">
+               <span class="separator">
+                |
+               </span>
+               <a class="comment-reply-link" href="/the-oligarchy-of-skulls/?replytocom=7042#respond" onclick='return addComment.moveForm("comment-7042", "7042", "respond", "6704")'>
+                Reply
+               </a>
+              </span>
+             </div>
+             <div class="comment-text">
+              <p>
+               I miss them too! Hmm hmm hmm Im taking your comment here under serious advisement hmm hmmmm
+              </p>
+             </div>
+            </div>
+            <div class="clear">
+            </div>
+           </li>
+          </ul>
+          <!-- .children -->
+         </li>
+         <li class="comment even thread-even depth-1" id="comment-7082">
+          <div class="comment-avatar">
+           <img alt="Anh" class="avatar avatar-64 photo instant nocorner itxtalt" height="64" src="http://1.gravatar.com/avatar/19ba8ea12516b7b2dcc24dc7cb8498ab?s=64&amp;d=http%3A%2F%2Frobbieandbobby.com%2Fwp-content%2Fthemes%2Fcomicpress-RNB-2.0%2Fimages%2Favatars%2FRobbieBobby%2FGrumpyBobby.png%3Fs%3D64&amp;r=G" width="64"/>
+          </div>
+          <div class="comment-content">
+           <div class="comment-author vcard">
+            <cite>
+             Anh
+            </cite>
+           </div>
+           <div class="comment-meta-data">
+            <span class="comment-time" title="Sunday, April 7th, 2013, 11:19 pm">
+             April 7, 2013 at 11:19 pm
+            </span>
+            <span class="comment-permalink">
+             <span class="separator">
+              |
+             </span>
+             <a href="#comment-7082" title="Permalink to comment">
+              #
+             </a>
+            </span>
+            <span class="comment-reply-link">
+             <span class="separator">
+              |
+             </span>
+             <a class="comment-reply-link" href="/the-oligarchy-of-skulls/?replytocom=7082#respond" onclick='return addComment.moveForm("comment-7082", "7082", "respond", "6704")'>
+              Reply
+             </a>
+            </span>
+           </div>
+           <div class="comment-text">
+            <p>
+             Ah these guys remind me of the Sleer from The Graveyard Book. Any reminders of that book always leave me with a warm feeling
+             <img alt=":)" class="wp-smiley" src="http://robbieandbobby.com/wp-includes/images/smilies/icon_smile.gif"/>
+            </p>
+           </div>
+          </div>
+          <div class="clear">
+          </div>
+         </li>
+        </ol>
+        <div class="comment-wrapper-respond">
+         <div class="comment-respond" id="respond">
+          <h3 class="comment-reply-title" id="reply-title">
+           Comment 
+           <br/>
+           <small>
+            <a href="/the-oligarchy-of-skulls/#respond" id="cancel-comment-reply-link" rel="nofollow" style="display:none;">
+             <small>
+              Cancel reply
+             </small>
+            </a>
+           </small>
+          </h3>
+          <form action="http://robbieandbobby.com/wp-comments-post.php" class="comment-form" id="commentform" method="post">
+           <p class="comment-form-author">
+            <input id="author" name="author" size="30" type="text" value=""/>
+            <label for="author">
+             <small>
+              NAME 
+              <a href="http://gravatar.com">
+               Get a Gravatar
+              </a>
+             </small>
+            </label>
+           </p>
+           <p class="comment-form-email">
+            <input id="email" name="email" size="30" type="text" value=""/>
+            <label for="email">
+             EMAIL
+            </label>
+           </p>
+           <p class="comment-form-url">
+            <input id="url" name="url" size="30" type="text" value=""/>
+            <label for="url">
+             Website URL
+            </label>
+           </p>
+           <p class="comment-form-comment">
+            <textarea id="comment" name="comment">
+            </textarea>
+           </p>
+           <p class="form-submit">
+            <input id="submit" name="submit" type="submit" value="Post Comment"/>
+            <input id="comment_post_ID" name="comment_post_ID" type="hidden" value="6704"/>
+            <input id="comment_parent" name="comment_parent" type="hidden" value="0"/>
+           </p>
+           <p style="display: none;">
+            <input id="akismet_comment_nonce" name="akismet_comment_nonce" type="hidden" value="e5da2eff97"/>
+           </p>
+           <p style="display: none;">
+            <input id="ak_js" name="ak_js" type="hidden" value="223"/>
+           </p>
+           <p>
+            <input checked="checked" id="comment_mail_notify" name="comment_mail_notify" style="width: auto;" type="checkbox" value="comment_mail_notify"/>
+            <label for="comment_mail_notify">
+             Notify me of follow-up comments via e-mail
+            </label>
+           </p>
+          </form>
+         </div>
+         <!-- #respond -->
+         <div class="clear">
+         </div>
+        </div>
+       </div>
+       <div class="customsidebar " id="sidebar-blog">
+        <div class="widget widget_text" id="text-28">
+         <div class="widget-content">
+          <div class="textwidget">
+           <script type="text/javascript">
+            var singlePost = jQuery.noConflict()('body.single .post');
+if( singlePost.length == 1 )
+jQuery.noConflict()('body.single .post').after( jQuery.noConflict()('#sidebar-blog') );
+           </script>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="customsidebar " id="sidebar-underblog">
+        <div class="widget widget_execphp" id="execphp-6">
+         <div class="widget-content">
+          <div class="execphpwidget">
+           <div align="center">
+            <script src="http://tag.contextweb.com/TagPublish/getjs.aspx?action=VIEWAD&amp;cwrun=200&amp;cwadformat=300X250&amp;cwpid=543584&amp;cwwidth=300&amp;cwheight=250&amp;cwpnet=1&amp;cwtagid=187320">
+             &lt;/script&gt;&lt;/div&gt;
+&lt;br&gt;&lt;br&gt;&lt;/div&gt;
+		&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+		&lt;/div&gt;
+						&lt;div id="sidebar-right"&gt;
+			&lt;div class="sidebar"&gt;
+		&lt;div id="text-46" class="widget widget_text"&gt;
+&lt;div class="widget-content"&gt;
+			&lt;div class="textwidget"&gt;&lt;br&gt;&lt;br&gt;&lt;div align="center"&gt;&lt;script src="http://tag.contextweb.com/TagPublish/getjs.aspx?action=VIEWAD&amp;cwrun=200&amp;cwadformat=160X600&amp;cwpid=543584&amp;cwwidth=160&amp;cwheight=600&amp;cwpnet=1&amp;cwtagid=117186"&gt;
+            </script>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="clear">
+      </div>
+     </div>
+     <div class="clear">
+     </div>
+    </div>
+    <div id="footer">
+     <div class="customsidebar " id="sidebar-footer">
+      <div class="widget widget_text" id="text-6">
+       <div class="widget-content">
+        <div class="textwidget">
+         <div style="width:728px; height:90px; overflow:hidden; text-align:center; margin:0px auto;">
+          <script src="http://tag.contextweb.com/TagPublish/getjs.aspx?action=VIEWAD&amp;cwrun=200&amp;cwadformat=728X90&amp;cwpid=543584&amp;cwwidth=728&amp;cwheight=90&amp;cwpnet=1&amp;cwtagid=117187">
+          </script>
+         </div>
+         <div class="dynamicadhidden" id="ad-leaderboard" style="display:none; width:728px; height:90px; position:absolute;">
+          <script src="http://tag.contextweb.com/TagPublish/getjs.aspx?action=VIEWAD&amp;cwrun=200&amp;cwadformat=728X90&amp;cwpid=543584&amp;cwwidth=728&amp;cwheight=90&amp;cwpnet=1&amp;cwtagid=154441">
+          </script>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <p class="footer-text">
+      2011-2014
+      <a href="http://robbieandbobby.com">
+       Robbie and Bobby
+      </a>
+      <span class="footer-pipe">
+       |
+      </span>
+      Powered by
+      <a href="http://wordpress.org/">
+       WordPress
+      </a>
+      with
+      <a href="http://comicpress.net/">
+       ComicPress
+      </a>
+      <span class="footer-subscribe">
+       <span class="footer-pipe">
+        |
+       </span>
+       Subscribe:
+       <a href="http://robbieandbobby.com/feed/">
+        RSS
+       </a>
+      </span>
+      <span class="footer-pipe">
+       |
+      </span>
+      <a href="http://robbieandbobby.com/privacy-policy/">
+       Privacy Policy
+      </a>
+      <span class="footer-uptotop">
+       <span class="footer-pipe">
+        |
+       </span>
+       <a href="#outside" onclick="scrollup(); return false;">
+        Back to Top 
+       </a>
+      </span>
+     </p>
+     <!-- 78 queries. 0.586 seconds. //-->
+    </div>
+    <!-- Ends #footer -->
+   </div>
+   <!-- Ends "page/page-wide" -->
+  </div>
+  <!-- Ends "page-wrap" -->
+  <!-- /// LOAD CHARTBEAT /// -->
+  <script type="text/javascript">
+   var _sf_async_config={};
+		_sf_async_config.uid = 3808;
+		_sf_async_config.useCanonical = true;
+		
+		(function(){
+		  function loadChartbeat() {
+			window._sf_endpt=(new Date()).getTime();
+			var e = document.createElement('script');
+			e.setAttribute('language', 'javascript');
+			e.setAttribute('type', 'text/javascript');
+			e.setAttribute('src',
+			   (("https:" == document.location.protocol) ? "https://" : "http://") +
+			   "static.chartbeat.com/js/chartbeat.js");
+			document.body.appendChild(e);
+		  }
+		  var oldonload = window.onload;
+		  window.onload = (typeof window.onload != 'function') ?
+			 loadChartbeat : function() { try { oldonload(); } catch (e) { loadChartbeat(); throw e} loadChartbeat(); };
+		})();
+  </script>
+  <script type="text/javascript">
+   if (typeof(addthis_share) == "undefined"){ addthis_share = {"passthrough":{"twitter":{"via":"robbieandbobby"}}};}
+
+var addthis_config = {"data_track_clickback":false,"data_ga_property":"UA-18130123-4","data_ga_social":true,"data_track_addressbar":false,"data_track_textcopy":false,"ui_atversion":"300"};
+var addthis_product = 'wpp-3.5.9';
+  </script>
+  <script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4e84b687381886df" type="text/javascript">
+  </script>
+  <script src="http://robbieandbobby.com/wp-content/plugins/akismet/_inc/form.js?ver=3.0.2" type="text/javascript">
+  </script>
+  <script src="http://robbieandbobby.com/wp-content/themes/comicpress/js/scroll.js" type="text/javascript">
+  </script>
+  <script src="http://robbieandbobby.com/wp-includes/js/comment-reply.min.js?ver=4.0" type="text/javascript">
+  </script>
+  <!--wp_footer-->
+  <script type="text/javascript">
+   /* &lt;![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&amp;&amp;a.indexOf("/cdn-cgi/l/email-protection") &gt; -1  &amp;&amp; (a.length &gt; 28)){s='';j=27+ 1 + a.indexOf("/cdn-cgi/l/email-protection");if (a.length &gt; j) {r=parseInt(a.substr(j,2),16);for(j+=2;a.length&gt;j&amp;&amp;a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);}t.innerHTML=s.replace(/&lt;/g,"&lt;").replace(/&gt;/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
+/* ]]&gt; */
+  </script>
+ </body>
+</html>
+<!-- Dynamic page generated in 0.575 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2014-11-05 11:48:03 -->

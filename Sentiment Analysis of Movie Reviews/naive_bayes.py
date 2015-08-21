@@ -11,9 +11,10 @@ with open(sys.argv[1]) as tsv:
         except:
             pass
 
+
 words_list = []
 for (words, sentiment) in reviews:
-    words_filtered = [e.lower() for e in words.split() if len(e) >= 3]
+    words_filtered = [e.lower() for e in words.split()]
     words_list.append((words_filtered, sentiment))
 
 
@@ -43,5 +44,5 @@ def extract_features(document):
 training_set = nltk.classify.apply_features(extract_features, reviews)
 classfier = nltk.NaiveBayesClassifier.train(training_set)
 
-review = 'as yet another example of the sad decline of British comedies'
+review = 'A series of escapades demonstrating the adage that what is good for the goose'
 print classfier.classify(extract_features(review.split()))
